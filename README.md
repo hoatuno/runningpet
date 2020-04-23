@@ -17,5 +17,6 @@ Game này em sẽ tham khảo ý tưởng của game T-Rex: game khủng long kh
 
 ----
  >Link Youtube giới thiệu game: https://youtu.be/YIyTnln8xF4
+ 
  >Link repo cũ: https://github.com/hoatuno/mysteryofbox.git (nhiều lần commit)
 
